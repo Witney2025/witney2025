@@ -12,7 +12,7 @@
   <img align="center" alt="f50kdev-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="f50kdev-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   
-  <img align="right" alt="witneypic-pic" height="150" style="border-radius:1000px;" src="https://github.com/Witney2025/myavatar/blob/main/E79A07FE-08CE-451F-AF78-4DE5494C0C42_1_105_c%201.png?raw=true">
+  <img align="right" alt="witneypic-pic" height="150" style="border-radius:1000px;" src="https://github.com/Witney2025/imageprofile/blob/main/E79A07FE-08CE-451F-AF78-4DE5494C0C42_1_105_c%201.png?raw=true">
 </div>
   
   <div>
