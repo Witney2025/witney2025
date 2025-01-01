@@ -19,11 +19,11 @@
     
 
     
-  <a href="https://instagram.com/whitney_Xerinda" target="_blank"><img src="E79A07FE-08CE-451F-AF78-4DE5494C0C42_1_105_c 1.png" target="_blank"></a>
+
     
  	
  
   <a href = "witneyxerinda@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/witney-xerinda-756579344/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/witney-xerinda-756579344/" target="_blank"><img src=" https://github.com/Witney2025/myavatar/blob/main/E79A07FE-08CE-451F-AF78-4DE5494C0C42_1_105_c%201.png " target="_blank"></a> 
     
   </div>
